@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -36,3 +37,31 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotroncontent{
+  padding-top: 60px;
+  margin-right: 45vh;
+}
+
+.bottomtext{
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.text1{
+  padding: 30px;
+}
+
+.text2{
+  padding:10px;
+}
+
+.main{
+  margin: 10px;
+}
+
+
